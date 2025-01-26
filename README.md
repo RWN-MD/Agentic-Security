@@ -1,7 +1,7 @@
 # Agentic Security
 
 ## Introduction
-The **Agentic Security** repository is a critical pillar of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) project, aimed at ensuring the safety and integrity of the `.agent` ecosystem. This repository focuses on building robust security frameworks to protect `.agent` domains and the agents that interact within this namespace.
+The **Agentic Security** repository is a critical pillar of the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) project, aimed at ensuring the safety and integrity of the `.agent` ecosystem. This repository focuses on building robust security frameworks to protect `.agent` domains and the agents that interact within this namespace.
 
 ## Purpose
 Security is at the heart of the `.agent` TLD. The **Agentic Security** repository focuses on:
@@ -21,7 +21,7 @@ Security is at the heart of the `.agent` TLD. The **Agentic Security** repositor
 - **`/docs`**: Technical documentation and security guidelines.
 
 ## Contribution
-We welcome contributions from developers and security experts. Please refer to the [Agentic Network](https://github.com/RWN-MD/Agentic-Network) repository for overarching contribution guidelines.
+We welcome contributions from developers and security experts. Please refer to the [Agentic Network](https://github.com/RWN-MD/Agentic-Network.git) repository for overarching contribution guidelines.
 
 ---
-*Part of the [Agentic Network](https://github.com/AgenticNetwork) project.*
+*Part of the [Agentic Network](https://github.com/Agentic-Network.git) project.*
